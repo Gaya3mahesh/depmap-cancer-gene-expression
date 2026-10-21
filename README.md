@@ -42,10 +42,11 @@ What the plots show:
 - KRAS hotspot mutant and non-mutant NSCLC lines look similar for both genes.
 - TNBC-like lines look somewhat higher for VEGFA than ER-positive-like lines, while PCNA looks similar across breast groups. This is a visual impression only.
 
-Figures are in the `figures` folder:
-- `expression_breast_lung.png`
-- `expression_breast_subtype.png`
-- `expression_nsclc_kras.png`
+Figures:
+
+![Breast vs lung](expression_breast_lung.png)
+![Breast subtypes](expression_breast_subtype.png)
+![NSCLC by KRAS status](expression_nsclc_kras.png)
 
 ## Limitations
 
